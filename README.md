@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Jayan Subramanian, an AI Engineering undergraduate from Amrita Vishwa Vidyapeetham with a strong focus on solving real-world problems through intelligent systems.<br><br>🔭 I’m currently working on AI-driven smart city infrastructure, facial analysis, deep learning research, and penetration testing and capture the flag competitions.<br><br>📚 I'm actively learning about advanced deep learning, full-stack system design, and multi-modal AI.<br><br>⚡ In my free time, I enjoy building interactive web applications, experimenting with home automation, and diving into immersive games.<br><br>📢 Open to collaboration on research projects, AI/ML solutions, full-stack systems, or cross-domain innovation.</p>
+<p align="left">I'm Jayan Subramanian, an AI Engineering undergraduate from Amrita Vishwa Vidyapeetham with a strong focus on solving real-world problems through intelligent systems.<br><br>🔭 Currently developing DocuMate, an AI study companion using RAG and multi-agent systems, and working with N8N automations to streamline workflows.<br><br>📚 I'm actively learning about advanced deep learning, full-stack system design, and multi-modal AI.<br><br>⚡ In my free time, I enjoy building interactive web applications, experimenting with home automation, and diving into immersive games.<br><br>📢 Open to collaboration on research projects, AI/ML solutions, full-stack systems, or cross-domain innovation.</p>
 
 ###
 
